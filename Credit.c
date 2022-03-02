@@ -8,7 +8,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 #include <stdio.h>
 #include <math.h>
-
+#include <cs50.h>
 
 int main(void)
 {
